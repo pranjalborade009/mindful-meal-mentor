@@ -1,0 +1,84 @@
+{
+  "SurveyFoods": [
+    {
+      "fdcId": 2706538,
+      "description": "Biryani with chicken",
+      "dataType": "Survey (FNDDS)",
+      "publicationDate": "10/31/2024",
+      "wweiaFoodCategory": { "wweiaFoodCategoryDescription": "Rice mixed dishes", "wweiaFoodCategoryCode": 3300624 },
+      "foodNutrients": [
+        { "nutrientId": 1003, "nutrientName": "Protein", "unitName": "G", "value": 7.15 },
+        { "nutrientId": 1004, "nutrientName": "Total lipid (fat)", "unitName": "G", "value": 2.38 },
+        { "nutrientId": 1005, "nutrientName": "Carbohydrate, by difference", "unitName": "G", "value": 13.55 },
+        { "nutrientId": 1008, "nutrientName": "Energy", "unitName": "KCAL", "value": 104 },
+        { "nutrientId": 1079, "nutrientName": "Fiber, total dietary", "unitName": "G", "value": 1.1 },
+        { "nutrientId": 1087, "nutrientName": "Calcium, Ca", "unitName": "MG", "value": 34 },
+        { "nutrientId": 1089, "nutrientName": "Iron, Fe", "unitName": "MG", "value": 0.84 },
+        { "nutrientId": 1093, "nutrientName": "Sodium, Na", "unitName": "MG", "value": 161 }
+      ],
+      "foodAttributes": [
+        { "value": "Indian rice with chicken", "foodAttributeType": { "name": "Additional Description" } },
+        { "value": "Rice mixed dishes", "foodAttributeType": { "name": "Attribute" } }
+      ],
+      "foodPortions": [
+        { "gramWeight": 196, "portionDescription": "1 cup" },
+        { "gramWeight": 245, "portionDescription": "Quantity not specified" }
+      ],
+      "inputFoods": [
+        { "ingredientCode": 11282, "ingredientDescription": "Onions, raw", "ingredientWeight": 440, "amount": 440, "unit": "GM", "portionDescription": "NONE" },
+        { "ingredientCode": 11100000, "ingredientDescription": "Milk, NFS", "ingredientWeight": 183, "amount": 0.75, "unit": "C", "portionDescription": "1 cup" },
+        { "ingredientCode": 11546, "ingredientDescription": "Tomato products, canned, paste, without salt added", "ingredientWeight": 32, "amount": 2, "unit": "TB", "portionDescription": "1 tablespoon" },
+        { "ingredientCode": 2014, "ingredientDescription": "Spices, cumin seed", "ingredientWeight": 2, "amount": 1, "unit": "TS", "portionDescription": "1 tablespoon" },
+        { "ingredientCode": 2010, "ingredientDescription": "Spices, cinnamon, ground", "ingredientWeight": 2.6, "amount": 1, "unit": "TS", "portionDescription": "1 tablespoon" },
+        { "ingredientCode": 11165, "ingredientDescription": "Coriander (cilantro) leaves, raw", "ingredientWeight": 32, "amount": 2, "unit": "C", "portionDescription": "1 cup" },
+        { "ingredientCode": 14411, "ingredientDescription": "Beverages, water, tap, drinking", "ingredientWeight": 88.875, "amount": 6, "unit": "TB", "portionDescription": "1 cup" },
+        { "ingredientCode": 2044, "ingredientDescription": "Basil, fresh", "ingredientWeight": 6, "amount": 1, "unit": "", "portionDescription": "1 cup, leaves only" },
+        { "ingredientCode": 11979, "ingredientDescription": "Peppers, jalapeno, raw", "ingredientWeight": 90, "amount": 90, "unit": "GM", "portionDescription": "NONE" },
+        { "ingredientCode": 11216, "ingredientDescription": "Ginger root, raw", "ingredientWeight": 6, "amount": 1, "unit": "TB", "portionDescription": "1 teaspoon" },
+        { "ingredientCode": 11674, "ingredientDescription": "Potatoes, baked, flesh and skin, without salt", "ingredientWeight": 668, "amount": 668, "unit": "GM", "portionDescription": "NONE" },
+        { "ingredientCode": 1117, "ingredientDescription": "Yogurt, plain, low fat", "ingredientWeight": 163.342, "amount": 163, "unit": "GM", "portionDescription": "NONE" },
+        { "ingredientCode": 2047, "ingredientDescription": "Salt, table", "ingredientWeight": 6, "amount": 1, "unit": "TS", "portionDescription": "1 cup" },
+        { "ingredientCode": 11215, "ingredientDescription": "Garlic, raw", "ingredientWeight": 8.438, "amount": 1, "unit": "TB", "portionDescription": "1 cup" },
+        { "ingredientCode": 20045, "ingredientDescription": "Rice, white, long-grain, regular, enriched, cooked", "ingredientWeight": 632, "amount": 4, "unit": "C", "portionDescription": "1 cup" },
+        { "ingredientCode": 1001, "ingredientDescription": "Butter, stick, salted", "ingredientWeight": 28, "amount": 2, "unit": "TB", "portionDescription": "1 cup" },
+        { "ingredientCode": 2043, "ingredientDescription": "Spices, turmeric, ground", "ingredientWeight": 2.267, "amount": 1, "unit": "TS", "portionDescription": "1 tablespoon" },
+        { "ingredientCode": 24102070, "ingredientDescription": "Chicken, NS as to part, rotisserie, skin not eaten", "ingredientWeight": 576, "amount": 576, "unit": "GM", "portionDescription": "NONE" }
+      ]
+    },
+    {
+      "fdcId": 2708730,
+      "description": "Samosa",
+      "dataType": "Survey (FNDDS)",
+      "publicationDate": "10/31/2024",
+      "wweiaFoodCategory": { "wweiaFoodCategoryDescription": "Turnovers and other grain-based items", "wweiaFoodCategoryCode": 3305008 },
+      "foodNutrients": [
+        { "nutrientId": 1003, "nutrientName": "Protein", "unitName": "G", "value": 5.14 },
+        { "nutrientId": 1004, "nutrientName": "Total lipid (fat)", "unitName": "G", "value": 17.47 },
+        { "nutrientId": 1005, "nutrientName": "Carbohydrate, by difference", "unitName": "G", "value": 33.16 },
+        { "nutrientId": 1008, "nutrientName": "Energy", "unitName": "KCAL", "value": 310 },
+        { "nutrientId": 1079, "nutrientName": "Fiber, total dietary", "unitName": "G", "value": 1.8 },
+        { "nutrientId": 1087, "nutrientName": "Calcium, Ca", "unitName": "MG", "value": 33 },
+        { "nutrientId": 1089, "nutrientName": "Iron, Fe", "unitName": "MG", "value": 2.16 },
+        { "nutrientId": 1093, "nutrientName": "Sodium, Na", "unitName": "MG", "value": 388 }
+      ],
+      "foodAttributes": [
+        { "value": "pastry with potatoes and peas", "foodAttributeType": { "name": "Additional Description" } },
+        { "value": "Turnovers and other grain-based items", "foodAttributeType": { "name": "Attribute" } }
+      ],
+      "foodPortions": [
+        { "gramWeight": 25, "portionDescription": "1 small/individual" },
+        { "gramWeight": 100, "portionDescription": "1 regular/large" },
+        { "gramWeight": 75, "portionDescription": "Quantity not specified" }
+      ],
+      "inputFoods": [
+        { "ingredientCode": 31036, "ingredientDescription": "Potatoes, mashed, ready-to-eat", "ingredientWeight": 300, "amount": 300, "unit": "GM", "portionDescription": "NONE" },
+        { "ingredientCode": 82101000, "ingredientDescription": "Vegetable oil, NFS", "ingredientWeight": 100, "amount": 100, "unit": "GM", "portionDescription": "NONE" },
+        { "ingredientCode": 1145, "ingredientDescription": "Butter, stick, unsalted", "ingredientWeight": 30, "amount": 30, "unit": "GM", "portionDescription": "NONE" },
+        { "ingredientCode": 20081, "ingredientDescription": "Flour, wheat, all-purpose, enriched, bleached", "ingredientWeight": 300, "amount": 300, "unit": "GM", "portionDescription": "NONE" },
+        { "ingredientCode": 1116, "ingredientDescription": "Yogurt, plain, whole milk", "ingredientWeight": 80, "amount": 80, "unit": "GM", "portionDescription": "NONE" },
+        { "ingredientCode": 11313, "ingredientDescription": "Peas, green, frozen, cooked, boiled, drained, without salt", "ingredientWeight": 30, "amount": 30, "unit": "GM", "portionDescription": "NONE" },
+        { "ingredientCode": 2047, "ingredientDescription": "Salt, table", "ingredientWeight": 6, "amount": 6, "unit": "GM", "portionDescription": "NONE" }
+      ]
+    }
+  ]
+}
